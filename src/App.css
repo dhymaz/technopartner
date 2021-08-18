@@ -24,8 +24,41 @@
   color: white;
 }
 
-.App-link {
+.Home-link {
   color: #61dafb;
+}
+
+.btn{
+  font-weight: bold;
+}
+
+label{
+  color: grey;
+  font-size: 15px;
+}
+
+.input{
+  border-color: lightgrey;
+}
+
+input{
+  background-color: rebeccapurple;
+}
+.btn{
+  width: 1050px;
+}
+
+img {
+  margin-top: 100px;
+  margin-bottom: 75px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {

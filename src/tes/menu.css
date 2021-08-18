@@ -1,0 +1,16 @@
+.menu {
+    width: 100%;
+    /* height: 100vw; */
+}
+
+.header-menu {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    height: 100px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.tab-items {
+    font-size: 5px;
+}
