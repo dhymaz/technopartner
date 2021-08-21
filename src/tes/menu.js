@@ -25,7 +25,7 @@ export default function Menu() {
          <Tab2 />
          <div className="bodyKonten">
          </div>
-         <Nav name="Beranda" />
+         <Nav name="Menu" />
      </div>
     )
 }

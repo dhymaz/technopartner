@@ -9,6 +9,7 @@
 }
 
 .bodyKonten{
+    background-image: url('Assets/motif.png');
     background-repeat: repeat-y;
     background-size: cover;
     z-index: 0;
